@@ -5,45 +5,49 @@
     "packageVersions": {},
     "actionVersions": {
       "addHelpMeList": {
-        "version": "0.0.3",
-        "digest": "a372421ba79e927c972faf4cff0db68eebaaed11ddeef533ae4a607663997ba3"
+        "version": "0.0.11",
+        "digest": "deba431544488f9ec3994d4dfe7d9fd874945fdf7cae8f99a2b06943c3967d2f"
       },
       "getHelpMeList": {
-        "version": "0.0.4",
-        "digest": "593d9a99d57c3ea6c7136b790d61fb674e682d7f56b54ad20f47af6a998818d3"
+        "version": "0.0.12",
+        "digest": "e709d85389b7644ded059d5b847efaff2c3ef8d35ab27db8a76579d0147d824b"
       }
     },
     "webHashes": {
       "web\\build\\android-chrome-192x192.png": "fee4aa3e059e6082b4fe99e1463cf10ee05fd70dd9565fd413c3895e9d3fb7b4",
       "web\\build\\android-chrome-512x512.png": "3dc4ec9e5ed82665b6c8366d1cc7a8465328e1e6e434f8b4fabb9cd111853fe6",
       "web\\build\\apple-touch-icon.png": "cbb68c14a78565032159d83dbdba60607b7f642bff0d82ee8ffb0f9c9d45b5ba",
-      "web\\build\\asset-manifest.json": "fc47807bb8b4231dd39f9955c1a9e701859451a8333ac696b6f6837b52d7401a",
+      "web\\build\\asset-manifest.json": "62e1592ec553a53fadc91e78c4840c61b64fd155e452e8cd83ba9ccf0f512cc1",
       "web\\build\\favicon-16x16.png": "2545c0ed2faf3b391053fa1ce5f724d4d8e2357fdfa5e50f1ccf01adc38e8346",
       "web\\build\\favicon-32x32.png": "43be200911e2c24847309c38b86c43444187d66374458b35a26806ec8e4e4535",
       "web\\build\\favicon.ico": "4bb9de8681377cf93c65f662e1250732e1243c2391b4a6611d5ac40a986f7570",
-      "web\\build\\index.html": "abe8292a788cb8ef960f42989ed510b6cf5c763c65a7021131e7ab80d3baf74a",
+      "web\\build\\index.html": "8e1258861da210a686c6050f39ad99c71f600a2132680ea77ba3d966d6613db4",
       "web\\build\\manifest.json": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "web\\build\\precache-manifest.a2bbdf37ae2beb35ee337a508812fe08.js": "7382f64668808b4beaec70038f79e1f3e894ba9ce672e5b596dd16039d27ab92",
+      "web\\build\\precache-manifest.2ea025ad5466a5a61a43f50dcbbbcfab.js": "94ded366e11578e231509ee8a091d887674e0165cad2ca1567fb5574be34d701",
       "web\\build\\robots.txt": "e5ab0d231eeb01b4a982d1c79a6729cac9797ad15a69247e4f28ba6afc149b4c",
-      "web\\build\\service-worker.js": "f3a73443c2b116171898bc101fb355e9ee48ec21a990c5f1d9f9c307a80081e9",
+      "web\\build\\service-worker.js": "eb58b815f2a283a35035eee47505f6bae7cb8f5c6f828c270f37257034415df7",
       "web\\build\\site.webmanifest": "7a9e07ce1f7386689917602ddc5a75750ad842e605ff764f67173529c181bf04",
+      "web\\build\\static\\media\\codersgala.99eca9ad.PNG": "0dd266bc78ad396c886dcd8c6baffafb825a5ba4d3b7ae4670e8b5775dc5326c",
       "web\\build\\static\\media\\DoHelp.1ba310d8.jpg": "3d43418a9f3da3328a56b7f6c035fb25efd626c5286c939cf8b40addfd8d39eb",
       "web\\build\\static\\media\\help4.fbb285a8.PNG": "9491e8d48f684b543ce94b29988e191665c2e6caea0aef1b4f7b2635c1a11b02",
-      "web\\build\\static\\media\\logo3.de66ca00.PNG": "3c45244e496f2123d5743b9a8dc863fccf4092c208ca3dac7a3beb1dcded1788",
+      "web\\build\\static\\media\\helpPatient.fb8de2bc.PNG": "26ccd7d7b638ef61910123ae3d5c7f8d1c182aae6275031f2694f6e27e64aa80",
+      "web\\build\\static\\media\\helpStudent.fcc482ae.PNG": "8b1dc1d7f54f194be464c80e2fa443f14ad8baa62d6d0ffd0d0a167b22beeaea",
+      "web\\build\\static\\media\\logo3.7e9817a3.PNG": "1adf61e85933d3d2daec004b4975dd16bcdb216a95d693d78d9b884eb972004f",
+      "web\\build\\static\\media\\studentHelp.befd0ba8.PNG": "7bf5dd19fd306d324574f706a32a33d87c6c86905f5485c2a8e7ec87a0e6c5e7",
       "web\\build\\static\\media\\tracker.66cd09b9.PNG": "87e7b46400030c81f5d9979eb0c2760f52872b50145083557e7d458c843e6193",
       "web\\build\\static\\media\\viruspng.c95b091b.png": "2aa56b7542c38d929e30cb7f7afe4319fefad3982f2c83b38b8bddc2f40ee79d",
       "web\\build\\static\\media\\WantHelp.d9b561f0.jpg": "25796e0f26ea30290e28561dc6df77c379329912878434458d2d749f86b89114",
-      "web\\build\\static\\js\\2.69540da1.chunk.js": "bd74f40627ddcd5113fa0b974c584fab08fe7569ed18f404876aff909da61d55",
-      "web\\build\\static\\js\\2.69540da1.chunk.js.LICENSE.txt": "b3476d4e1cd628a4690f92ded43679e146cc20b61bb7e5b020b17e8347c838e4",
-      "web\\build\\static\\js\\2.69540da1.chunk.js.map": "4eb8fcfd70a6689ee1b8d08955d92a03589ca1325284af54baff004a1f787ff2",
-      "web\\build\\static\\js\\main.fb627c29.chunk.js": "79abe02f8a333592e17a693639d5ec08cad9a7105b6ab9bb83bcba9b70670c98",
-      "web\\build\\static\\js\\main.fb627c29.chunk.js.map": "28cc5fd150906016fa74914e7f80659f80c896689d3e5a76ca76909ae50e2dc7",
+      "web\\build\\static\\js\\2.a2c1f635.chunk.js": "07a37942bd794997e23545710f9c51480460bbd726c11970de781ca48e1606a6",
+      "web\\build\\static\\js\\2.a2c1f635.chunk.js.LICENSE.txt": "b3476d4e1cd628a4690f92ded43679e146cc20b61bb7e5b020b17e8347c838e4",
+      "web\\build\\static\\js\\2.a2c1f635.chunk.js.map": "13526b706a73c29a8915ab50ccbcb2d38c65fdb1fc3dc7cb29a0e81b572bbae5",
+      "web\\build\\static\\js\\main.573acccf.chunk.js": "4d21a249dee53b46ec609500ef015a0582ed9fc498d44cc9c96a6c048b74e1a5",
+      "web\\build\\static\\js\\main.573acccf.chunk.js.map": "cd00231f8c66b401dea7a5dcad46496c0dbde0fc7e3d235f37069a774987f73d",
       "web\\build\\static\\js\\runtime-main.09b85ec0.js": "13a596b636c4d03901cf60c9c2b10aee131933202b88d7e30a18a98c4de947fb",
       "web\\build\\static\\js\\runtime-main.09b85ec0.js.map": "c40f9d50b521fba255fd8a2b39c1ce0ee7a82f081ed6480743e0d36661ab158f",
       "web\\build\\static\\css\\2.829c9cb5.chunk.css": "42e17af993954c82fa1b6b1578029b04bec1a0dd0d05427e55d85b3b14e2a3eb",
       "web\\build\\static\\css\\2.829c9cb5.chunk.css.map": "c4ec7b079e14c223cc84c369a402a4edb311746c1da2c8ae77ce8af5d2e2bbbb",
-      "web\\build\\static\\css\\main.c3ab73eb.chunk.css": "5d7857b7f849084b83c1f8db350d73e5c150effd612ea0a03ab6a0cbdf96558b",
-      "web\\build\\static\\css\\main.c3ab73eb.chunk.css.map": "49a689878b4120d865de7b6a9d52c8e6e4a561403bf7311a5fe255bc856963e1"
+      "web\\build\\static\\css\\main.c075f4e5.chunk.css": "5ec0f50ebd25d4e7b8dad7ed05edd3ff23b2149c9337350605393c75398920de",
+      "web\\build\\static\\css\\main.c075f4e5.chunk.css.map": "1e5a978266faaaf14e911ab7a87533b6125197d2778b4751a07f9f0675488fa5"
     }
   }
 ]
